@@ -23,13 +23,7 @@ This project proposes the application of machine learning techniques for the dev
 
 In this work, we propose following the Knowledge Discovery in Datasets (KDD) framework in order to establish a systematic approach that encompasses the steps:
 
-<center>
-<div style="width:100%">
-![KDD_framework](https://github.com/mariajoaosousa/ml_fire/blob/master/docs/figures/KDD_framework.png)
-</div>
-</br>
-</center>
-
+[[https://github.com/mariajoaosousa/ml_fire/blob/master/docs/figures/KDD_framework.png|alt=KDD_framework]]  
 
 The basis of this process starts with establishing the research topics to be addressed in this investigation. In the context of the prediction of extreme fire events, the nature of different fire regimes influences the spatial occurrence of these phenomena, thus it is important to take into consideration the following modeling assumptions:
 
