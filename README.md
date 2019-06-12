@@ -25,7 +25,7 @@ In this work, we propose following the Knowledge Discovery in Datasets (KDD) fra
 
 <center>
 <div style="width:100%">
-![KDD_framework](docs/figures/KDD_framework.png)
+![KDD_framework](https://github.com/mariajoaosousa/ml_fire/blob/master/docs/figures/KDD_framework.png)
 </div>
 </br>
 </center>
